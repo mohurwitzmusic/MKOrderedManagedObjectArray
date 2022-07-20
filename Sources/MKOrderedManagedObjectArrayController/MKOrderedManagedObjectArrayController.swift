@@ -17,7 +17,7 @@ open class MKOrderedManagedObjectArrayController<T: MKOrderedManagedObject> {
     
     open func fetch() -> [T] {
         let request = NSFetchRequest<T>(entityName: T.entity().name!)
-        request.sortDescriptors = [.init(key: "arrayIndex", ascending: true)]
+        request.sortDescriptors = [.byArrayIndex()]
         do {
             return try context.fetch(request)
         } catch {
