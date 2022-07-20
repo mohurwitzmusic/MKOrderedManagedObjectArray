@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>MKOrderedManagedObjectArrayController.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>MKOrderedManagedObjectArrayControllerTests.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>6</integer>
+		</dict>
+		<key>ManagedObjectArrayController.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>OrderedManagedObjectController.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>MKManagedObjectArrayController</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>MKManagedObjectArrayControllerTests</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>MKManagedObjectArrayController_MKManagedObjectArrayControllerTests</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>MKOrderedManagedObjectArrayController</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>OrderedManagedObjectArrayController</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>OrderedManagedObjectArrayControllerTests</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>OrderedManagedObjectArrayController_OrderedManagedObjectArrayControllerTests</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
