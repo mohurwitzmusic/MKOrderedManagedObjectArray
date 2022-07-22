@@ -11,8 +11,10 @@
 		</dict>
 		<key>MKOrderedManagedObjectArrayControllerTests.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<false/>
 			<key>orderHint</key>
-			<integer>2</integer>
+			<integer>4</integer>
 		</dict>
 		<key>ManagedObjectArrayController.xcscheme_^#shared#^_</key>
 		<dict>
@@ -43,6 +45,11 @@
 			<true/>
 		</dict>
 		<key>MKOrderedManagedObjectArrayController</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>MKOrderedManagedObjectArrayControllerTests</key>
 		<dict>
 			<key>primary</key>
 			<true/>
