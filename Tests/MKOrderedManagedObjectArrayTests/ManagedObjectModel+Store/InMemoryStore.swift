@@ -7,7 +7,7 @@
 
 import Foundation
 import CoreData
-@testable import MKOrderedManagedObjectArrayController
+@testable import MKOrderedManagedObjectArray
 
 class InMemoryStore {
     

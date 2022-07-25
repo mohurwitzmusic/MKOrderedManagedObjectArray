@@ -7,7 +7,7 @@
 
 import XCTest
 import CoreData
-@testable import MKOrderedManagedObjectArrayController
+@testable import MKOrderedManagedObjectArray
 
 extension TestItem: MKOrderedManagedObject { }
 
