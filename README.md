@@ -1,4 +1,4 @@
-# MKOrderedManagedObjectArrayController
+# MKOrderedManagedObjectArray
 
 A CoreData utility to manage an ordered collection of NSManagedObject as an array.
 
